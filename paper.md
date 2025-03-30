@@ -20,10 +20,10 @@ You can either collaborate with a team or present individually. The choice of to
 
 
 ## Document Intelligence
-**MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding** [[Paper]](https://arxiv.org/abs/2503.13964)
-**SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding** [[Paper]](https://arxiv.org/abs/2411.01106)
-**VipAct: Visual-perception enhancement via specialized vlm agent collaboration and tool-use** [[Paper]]()
-**SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding** [[Paper]](https://arxiv.org/abs/2411.01106)
+**MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding** [[Paper]](https://arxiv.org/abs/2503.13964)<br>
+**SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding** [[Paper]](https://arxiv.org/abs/2411.01106)<br>
+**VipAct: Visual-perception enhancement via specialized vlm agent collaboration and tool-use** [[Paper]](https://arxiv.org/abs/2410.16400)<br>
+**SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding** [[Paper]](https://arxiv.org/abs/2411.01106)<br>
 
 
 ## Social Network Analysis
@@ -39,9 +39,9 @@ You can either collaborate with a team or present individually. The choice of to
 
 
 ## Complex Topology and Graph Structure
-**PolyhedronNet: Representation Learning for Polyhedra with Surface-attributed Graph** [[Paper]](https://arxiv.org/abs/2502.01814)
-**Slow Perception: Let's Perceive Geometric Figures Step-by-step** [[Paper]](https://arxiv.org/abs/2412.20631)
-**Representation Learning of Geometric Trees** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671688)
+**PolyhedronNet: Representation Learning for Polyhedra with Surface-attributed Graph** [[Paper]](https://arxiv.org/abs/2502.01814)<br>
+**Slow Perception: Let's Perceive Geometric Figures Step-by-step** [[Paper]](https://arxiv.org/abs/2412.20631)<br>
+**Representation Learning of Geometric Trees** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671688)<br>
 
 
 
