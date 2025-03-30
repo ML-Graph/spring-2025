@@ -35,25 +35,12 @@ permalink: /project/
 Here is an example of one-course project.
 - [Project Report Template](https://ml-graph.github.io/winter-2025/static_files/Federated_Learning_for_Document_Classification.pdf)
 
-## Power Network Mining
+
+## Document Multi-modality Mining
 
 
-## Transportation Network Mining
+## Social Network Textual Mining
 
 
-## Water Network Mining
+## Spatial-Temporal Learning
 
-
-## Twitter Text Mining
-
-
-## Reddit Comment Mining
-
-
-## Customer Review Mining
-
-
-## Recommender System
-
-
-## Document Mining
