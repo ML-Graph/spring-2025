@@ -17,6 +17,7 @@ You can either collaborate with a team or present individually. The choice of to
 ## Spatial Temporal Mining
 **PowerGraph: A power grid benchmark dataset for graph neural networks** [[Paper]](https://arxiv.org/abs/2402.02827)<br>
 **Spatial-RAG: Spatial Retrieval Augmented Generation for Real-World Spatial Reasoning Questions** [[Paper]](https://arxiv.org/abs/2502.18470)<br>
+**Can Large Vision Language Models Read Maps Like a Human?** [[Paper]](https://arxiv.org/abs/2503.14607)<br>
 
 
 ## Document Intelligence
