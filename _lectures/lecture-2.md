@@ -7,4 +7,5 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/KDE-Gaussian.pdf)
+- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/1-Gen-Kernel.pdf)
+- [Codebook](https://ml-graph.github.io/winter-2025/static_files/codes/1-Gen-Kernel.ipynb)
