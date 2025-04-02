@@ -8,4 +8,3 @@ links:
 ---
 **Course Materials:**
 - [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/KDE-Gaussian.pdf)
-- Readings: 20
