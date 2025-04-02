@@ -32,15 +32,5 @@ permalink: /project/
 - **Discussion**: 
   - Analyze and discuss the results of the experiments.
 
-Here is an example of one-course project.
+Here is an example of the one-course project.
 - [Project Report Template](https://ml-graph.github.io/winter-2025/static_files/Federated_Learning_for_Document_Classification.pdf)
-
-
-## Document Multi-modality Mining
-
-
-## Social Network Textual Mining
-
-
-## Spatial-Temporal Learning
-
