@@ -8,3 +8,4 @@ links:
 ---
 **Course Materials:**
 - [Slides](https://ml-graph.github.io/spring-2025/static_files/presentations/slides/Overview.pdf)
+- Readings: 1.2-1.3
