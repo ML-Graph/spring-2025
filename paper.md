@@ -14,43 +14,32 @@ You can either collaborate with a team or present individually. The choice of to
 - Conclusion and Future Work
 
 
-## Spatial Temporal Mining
-**PowerGraph: A power grid benchmark dataset for graph neural networks** [[Paper]](https://arxiv.org/abs/2402.02827)<br>
-**Spatial-RAG: Spatial Retrieval Augmented Generation for Real-World Spatial Reasoning Questions** [[Paper]](https://arxiv.org/abs/2502.18470)<br>
-**Can Large Vision Language Models Read Maps Like a Human?** [[Paper]](https://arxiv.org/abs/2503.14607)<br>
+## Generative Models
 
+## RAG Systems
+**From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs** [[Paper]](https://arxiv.org/abs/2410.14052)<br>
+**LLM Alignment as Retriever Optimization: An Information Retrieval Perspective** [[Paper]](https://arxiv.org/pdf/2502.03699)<br>
+**RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation** [[Paper]](https://arxiv.org/pdf/2502.10996)<br>
+**Wikipedia Contributions in the Wake of ChatGPT** [[Paper]](https://arxiv.org/pdf/2503.00757)<br>
+**Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective** [[Paper]](https://arxiv.org/pdf/2411.14572)<br>
 
-## Document Intelligence
-**MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding** [[Paper]](https://arxiv.org/abs/2503.13964)<br>
-**SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding** [[Paper]](https://arxiv.org/abs/2411.01106)<br>
-**VipAct: Visual-perception enhancement via specialized vlm agent collaboration and tool-use** [[Paper]](https://arxiv.org/abs/2410.16400)<br>
-**SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding** [[Paper]](https://arxiv.org/abs/2411.01106)<br>
-
-
-## Social Network Analysis
-**Magic: Investigation of large language model powered multi-agent in cognition, adaptability, rationality and collaboration** [[Paper]](https://aclanthology.org/2024.emnlp-main.416/)<br>
-**Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas** [[Paper]](https://arxiv.org/abs/2402.17270)<br>
-**S3: Social-network Simulation System with Large Language Model-Empowered Agents** [[Paper]](https://arxiv.org/abs/2307.14984)<br>
+## Agentic AI
+**HETEROGENEOUS SWARMS: Jointly Optimizing Model Roles and Weights for Multi-LLM System** [[Paper]](https://arxiv.org/pdf/2502.04510)<br>
 **OASIS: Open Agents Social Interaction Simulations on One Million Agents** [[Paper]](https://oasis.camel-ai.org/)<br>
 **Why Do Multi-Agent LLM Systems Fail?** [[Paper]](https://arxiv.org/abs/2503.13657)<br>
 **A Multi-LLM Debiasing Framework** [[Paper]](https://arxiv.org/abs/2409.13884)<br>
-**Deep Identification of Propagation Trees** [[Paper]](https://arxiv.org/abs/2503.00646)<br>
-**Network Tomography with Path-Centric Graph Neural Network** [[Paper]](https://arxiv.org/abs/2502.16430)<br>
-****
+**TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System** [[Paper]](https://arxiv.org/abs/2412.12196)<br>
+
+## Neural-Symbolic Learning
+**Self-Discover: Large Language Models Self-Compose Reasoning Structures** [[Paper]](https://arxiv.org/abs/2402.03620)<br>
+**ThinkPatterns-21k: A Systematic Study on the Impact of Thinking Patterns in LLMs** [[Paper]](https://arxiv.org/abs/2503.12918)<br>
+**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models** [[Paper]](https://arxiv.org/abs/2503.16419)<br>
+**Do LLMs Think Fast and Slow? A Causal Study on Sentiment Analysis** [[Paper]](https://aclanthology.org/2024.findings-emnlp.547.pdf)<br>
 
 
 ## Complex Topology and Graph Structure
 **PolyhedronNet: Representation Learning for Polyhedra with Surface-attributed Graph** [[Paper]](https://arxiv.org/abs/2502.01814)<br>
 **Slow Perception: Let's Perceive Geometric Figures Step-by-step** [[Paper]](https://arxiv.org/abs/2412.20631)<br>
 **Representation Learning of Geometric Trees** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671688)<br>
-
-
-
-## LLM and Agent
-**LLMs can't plan, but can help planning in LLM-modulo frameworks** [[Paper]](https://arxiv.org/abs/2402.01817)<br>
-**HYDRA: Model Factorization Framework for Black-Box LLM Personalization** [[Paper]](https://arxiv.org/abs/2402.08219)<br>
-**Multi-LLM Collaborative Caption Generation in Scientific Documents** [[Paper]](https://arxiv.org/abs/2501.02552)<br>
-**Agent Laboratory: Using LLM Agents as Research Assistants** [[Paper]](https://arxiv.org/abs/2501.04227)<br>
-**FILL IN THE BLANK: EXPLORING AND ENHANCING LLM CAPABILITIES FOR BACKWARD REASONING IN MATH WORD PROBLEMS** [[Paper]](https://openreview.net/pdf?id=ABIcBDLBVG)<br>
-
-
+**Deep Identification of Propagation Trees** [[Paper]](https://arxiv.org/abs/2503.00646)<br>
+**Network Tomography with Path-Centric Graph Neural Network** [[Paper]](https://arxiv.org/abs/2502.16430)<br>
