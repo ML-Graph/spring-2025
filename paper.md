@@ -29,6 +29,9 @@ You can either collaborate with a team or present individually. The choice of to
 **Why Do Multi-Agent LLM Systems Fail?** [[Paper]](https://arxiv.org/abs/2503.13657)<br>
 **A Multi-LLM Debiasing Framework** [[Paper]](https://arxiv.org/abs/2409.13884)<br>
 **TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System** [[Paper]](https://arxiv.org/abs/2412.12196)<br>
+**Preference Leakage: A Contamination Problem in LLM-as-a-judge** [[Paper]](https://arxiv.org/abs/2502.01534)<br>
+**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks** [[Paper]](https://arxiv.org/pdf/2410.11782)<br>
+**GPTSwarm: Language Agents as Optimizable Graphs** [[Paper]](https://arxiv.org/pdf/2402.16823)<br>
 
 ## Neural-Symbolic Learning
 **Self-Discover: Large Language Models Self-Compose Reasoning Structures** [[Paper]](https://arxiv.org/abs/2402.03620)<br>
