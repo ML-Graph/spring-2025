@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-05-09
-title: Diffusion - Video <br> Paper Presentation 3
+title: Diffusion - Video <br> 
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
