@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-05-16
-title: Reinforcement Learning1 <br> Paper Presentation 1
+title: Reinforcement Learning1 <br>
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
