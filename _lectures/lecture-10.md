@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-06-06
-title: Neural Symbolic Learning 2 <br> Paper Presentation 5
+title: Neural Symbolic Learning 2 <br> 
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
