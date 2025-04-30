@@ -7,5 +7,5 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/spring-2025/static_files/presentations/slides/4-Gen-VAE.pdf)
+- [Slides](https://ml-graph.github.io/spring-2025/static_files/presentations/4-Gen-VAE.pdf)
 - [Codebook](https://ml-graph.github.io/spring-2025/static_files/codes/4-Gen-VAE.ipynb)
