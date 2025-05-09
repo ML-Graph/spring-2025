@@ -7,4 +7,7 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/Diffusion.pdf)
+- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/6-Gen-Diffusion.pdf)
+- [Codes](https://www.kaggle.com/code/vikramsandu/ddpm-from-scratch-in-pytorch)
+- [Video]()
+- [Math](https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html)
