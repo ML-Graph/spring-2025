@@ -8,3 +8,5 @@ links:
 ---
 **Course Materials:**
 - [Slides](https://ml-graph.github.io/spring-2025/static_files/presentations/5-Gen-GAN.pdf)
+- [Codebook](https://ml-graph.github.io/spring-2025/static_files/codes/5-Gen-GAN.ipynb)
+- [Video](https://ml-graph.github.io/spring-2025/static_files/videos/5-Gen-GAN.mov)
