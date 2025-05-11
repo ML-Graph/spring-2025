@@ -1,10 +1,10 @@
 ---
 type: lecture
 date: 2025-05-23
-title: Reinforcement Learning 2 <br> 
+title: Agentic AI <br> 
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/RL2.pdf)
+- [Slides](https://ml-graph.github.io/spring-2025/static_files/presentations/slides/AgenticAI.pdf)
