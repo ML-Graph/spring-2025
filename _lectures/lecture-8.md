@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-05-23
-title: Agentic AI <br> 
+title: Agentic AI 2 <br> 
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
