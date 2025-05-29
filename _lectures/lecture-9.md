@@ -7,4 +7,4 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/NS1.pdf)
+- [Slides](https://ml-graph.github.io/spring-2025/static_files/presentations/8-Neural-Symbolic-Learning1.pdf)
